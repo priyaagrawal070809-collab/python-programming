@@ -1,5 +1,5 @@
 # Write a function aliquot_sum(n) that returns the sum of all proper divisors of n (divisors less than n).
-# SAMYAK JAIN (25BAI10746)
+# priya agrawal(25BAI10987)
 import time
 def aliquot_sum(n):
     if n == 1:
@@ -159,3 +159,4 @@ print(f"Result: {value}")
 print(f"Execution Time: {exec_time} seconds")
 print(f"Current Memory Usage: {current_mem} bytes")
 print(f"Peak Memory Usage: {peak_mem} bytes")
+
