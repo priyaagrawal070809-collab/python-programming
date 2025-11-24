@@ -1,5 +1,5 @@
 #Write a function Lucas Numbers Generator lucas_sequence(n) that generates the first n Lucas numbers (similar to Fibonacci but starts with 2,1).
-#SAMYAK JAIN (25BAI10746)
+# priya agrawal (25BAI10987)
 import time
 import sys
 import collections
@@ -184,3 +184,4 @@ else:
 end_time = time.time()
 execution_time = end_time - start_time
 print(f"Time of execution: {execution_time:.6f} seconds")
+
