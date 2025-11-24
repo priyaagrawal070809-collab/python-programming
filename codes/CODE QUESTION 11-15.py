@@ -1,5 +1,5 @@
 # Write a function count_distinct_prime_factors(n) that returns how many unique prime factors a number has.
-# SAMYAK JAIN (25BAI10746)
+# priya agrawal(25BAI10987)
 import time
 import sys
 def prime_factors(n):
@@ -154,3 +154,4 @@ print(f"Number of divisors of {num}: {result}")
 print(f"Execution time: {end_time - start_time:.8f} seconds")
 print(f"Current memory usage: {current / 1024:.4f} KB")
 print(f"Peak memory usage: {peak /1024:.4f} KB")
+
