@@ -1,5 +1,5 @@
 # Write a function is_deficient(n) that returns True if the sum of proper divisors of n is less than n.
-# SAMYAK JAIN (25BAI10746)
+# priya agrawal (25BAI10987)
 import time
 def is_deficient(n):
     start_time = time.time()
@@ -120,3 +120,4 @@ def prime_factors(n):
     print(f"Peak memory usage: {memory_used:.2f} KB")
 n = int(input("Enter a number: "))
 prime_factors(n)
+
