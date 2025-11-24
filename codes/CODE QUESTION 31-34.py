@@ -1,5 +1,5 @@
 # Implement the probabilistic Miller-Rabin test is_prime_miller_rabin(n, k) with k rounds.
-# SAMYAK JAIN (25BAI10746)
+# priya agrawal (25BAI10987)
 import time
 import random
 def is_prime_miller_rabin(n, k=20):
@@ -151,3 +151,4 @@ exec_time = time.time() - start
 print(f"\np({n}) = {result}")
 print(f"Execution Time: {exec_time:.6f} seconds")
 print(f"Memory Used: {peak/1024:.2f} KB")
+
